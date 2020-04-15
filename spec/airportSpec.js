@@ -15,4 +15,8 @@ describe('Airport', function() {
     expect(airport.planes).toBeEmpty;
   });
 
+  it('allows a plane to land', function(){
+    airport.acceptPlane(plane);
+    expect(airport.planes).toEqual([plane]);
+  });
 });
