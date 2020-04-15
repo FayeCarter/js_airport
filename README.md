@@ -61,4 +61,8 @@ This project is a second attempt at building an airport. [Ruby Airport](https://
       As an air traffic controller 
       To ensure safety 
       I want to prevent landing when weather is stormy 
+<<<<<<< HEAD
       ```
+=======
+      ```
+>>>>>>> a3ff9af29b5ee494412266401497194ead090aba
