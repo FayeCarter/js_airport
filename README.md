@@ -15,7 +15,7 @@ This project is a second attempt at building an airport. [Ruby Airport](https://
 
 ## Aims of the project
 
-- [ ] A plane can land at an airport
+- [X] A plane can land at an airport
   
       
       As an air traffic controller 
@@ -23,7 +23,7 @@ This project is a second attempt at building an airport. [Ruby Airport](https://
       I want to instruct a plane to land at an airport
       
 
-- [ ] A plane leaves an airport when in takeOff
+- [X] A plane leaves an airport when in takeOff
 
       
       As an air traffic controller 
